@@ -1,4 +1,4 @@
-LICENSED APPLICATION END USER LICENSE AGREEMENT
+# LICENSED APPLICATION END USER LICENSE AGREEMENT
 
 Apps made available through the App Store or Google Play Store are licensed, not sold, to you. Your license to each App is subject to your prior acceptance of either this Licensed Application End User License Agreement (“Standard EULA”), or a custom end user license agreement between you and Freestyle Trampoline Inc. (“Custom EULA”), if one is provided. Your license to the Licensed Application under this Standard EULA is granted by Freestyle Trampoline Inc. (“Licensor”). The Licensor reserves all rights in and to the Licensed Application not expressly granted to you under this Standard EULA.
 
