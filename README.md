@@ -23,15 +23,15 @@ This Application collects your device's location, which helps the Service Provid
 *   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
 *   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
 
-**Do third parties see and/or have access to information obtained by the Application?**
+**Third-Party Data Access for Advertising and Analytics**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+We share your information with third parties that provide services to us, including advertising networks and analytics providers. These third parties may collect or receive certain information about your use of the Application, including your **Device ID (Advertising ID)**, **IP address**, and **usage data**, to provide personalized ads, measure ad performance, and analyze app usage.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+Please note that these third parties may use the collected information in accordance with their own privacy policies. We encourage you to review the privacy policies of the third-party service providers used by the Application:
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+* **Unity Ads:** [https://unity3d.com/legal/privacy-policy](https://unity3d.com/legal/privacy-policy)
+* **Google Play Services:** [https://policies.google.com/privacy](https://policies.google.com/privacy)
+* **Google AdMob:** [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 **What are my opt-out rights?**
 
